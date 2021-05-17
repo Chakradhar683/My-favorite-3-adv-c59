@@ -158,3 +158,60 @@ a {
     text-decoration: none;
     .
 }
+
+#app {
+    width: 100%;
+    height: 800px;
+    background-color:aliceblue;
+}
+
+#game{
+    width: 100%;
+    height: 800px;
+    background-color:cyan;
+
+}
+
+#artist{
+    width: 100%;
+    height: 800px;
+    background-color:chartreuse;
+}
+
+#spritelab{
+    width: 100%;
+    height: 800px;
+    background-color:darkkhaki;
+}
+
+#chatbot{
+    width: 100%;
+    height: 800px;
+    background-color:firebrick;
+}
+
+img{
+    transition: transform.2s;
+}
+img:hover{
+    transform: scale(0.9);
+
+}
+.line{
+    height: 6px;
+    width: 70px;
+    background-color: #000;
+    margin: 8px auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
